@@ -1,0 +1,8 @@
+flask
+flask-bootstrap
+flask-wtf
+numpy
+pandas
+scikit-learn
+tensorflow
+gunicorn
